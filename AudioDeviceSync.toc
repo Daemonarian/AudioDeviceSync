@@ -1,0 +1,6 @@
+## Interface: 120001
+## Title: Audio Device Sync
+## Notes: Automatically re-sync the "System Default" audio device whenever it changes in Windows.
+## Version: 1.0.0
+
+AudioDeviceSync.lua
